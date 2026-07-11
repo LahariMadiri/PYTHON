@@ -1,4 +1,5 @@
 # Typecasting
+
 name = "John"
 age = 20
 price = 10.5
