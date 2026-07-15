@@ -25,8 +25,8 @@ else:
 
 #BOOLEAN IF STATEMENTS
 # EXAMPLE 
-for_scale = False
-if for_scale:
-    print("This item is for scale.")
+for_sale = False
+if for_sale:
+    print("This item is for sale.")
 else:
-    print("This item is not for scale.")
+    print("This item is not for sale.")
